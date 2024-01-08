@@ -1,0 +1,19 @@
+Author Reed Peglow
+Program for The Toggery
+
+
+This program is intended to speed up the process of gathering customer information, by allowing the customer to directly
+enter their personal information, opposed to waiting in line to speak with an employee.This program will gather
+information from the customer, it will validate that all required fields are filled and that the phone number is
+a 10-digit number. After successfully inputting all information, a new window will display a contract that must be
+accepted to continue, if not accepted then the program will print the user information with a disclaimer of "Canceled".
+After the user has agreed to the term and conditions of the contract, a thank-you box will show confirming that their
+items have been accepted and are awaiting inspection by employee. The program will print and save the customers
+information for later use by an employee.
+
+*note*
+With more practise and skill I would like this same program to automatically send a SMS message or even an email to
+the customer when their items have been processed by an employee.
+
+The Toggery has a database management company that I would need to contact to further the functionality of this
+program, such as linking to the database to search for existing customers.
